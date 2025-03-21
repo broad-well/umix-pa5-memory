@@ -9,4 +9,7 @@
 // FirstFitFree
 // FirstFitBytesAllocated
 // FirstFitHoleCount
-
+// BuddyAlloc
+// BuddyFree
+// BuddyBytesAllocated
+// BuddyHoleCount
